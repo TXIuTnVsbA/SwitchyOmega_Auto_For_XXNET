@@ -1,6 +1,8 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.t.co +8087
+*.twitter.com +8087
 *.facebook.net +8087
 *.facebook.nl +8087
 *.fb.com +8087
@@ -22,6 +24,11 @@
 *.youtubegaming.com +8087
 *.ytimg.com +8087
 *.*v6.facebook.com +8087
+api.soundcloud.com +8087
 *.facebookquotes4u.com +8087
+i1.sndcdn.com +8087
+l9bjkkhaycw6f8f4.soundcloud.com +8087
+cf-hls-media.sndcdn.com +8087
+eventgateway.soundcloud.com +8087
 
 * +direct
