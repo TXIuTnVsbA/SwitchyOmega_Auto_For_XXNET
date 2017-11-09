@@ -1,0 +1,1 @@
+# SwitchyOmega_Auto_For_XXNET
